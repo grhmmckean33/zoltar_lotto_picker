@@ -3,7 +3,7 @@ Using most frequently occuring numbers since the lotterys inception in the UK, t
 
 # Table of Contents
 1.	PROJECT DESCRIPTION
-2.	ZOLATAR LOTTO NUMBER GENERATOR SCREENSHOT
+2.	ZOLTAR LOTTO NUMBER GENERATOR SCREENSHOT
 3.	BACKGROUND
 4.	TECHNOLOGIES USED
 5.	REQUIREMENTS
