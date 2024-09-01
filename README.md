@@ -11,7 +11,7 @@ Random UK Lotto Number Generator Based on Most Commonly Occuring Numbers Since L
 
 # PROJECT DESCRIPTION
 Using most frequently occurring numbers since the lottery’s inception in the UK, this Python program generates the most frequently drawn random numbers, for placing on the lotto. It also uses PyGame to add a fun visual and audio immersive element to the experience with the use of a Zoltar wish granting machine. Static Zoltar image was generated using AI prompt engineering on MidJourney.
-# ZOLATAR LOTTO NUMBER GENERATOR SCREENSHOT
+# ZOLTAR LOTTO NUMBER GENERATOR SCREENSHOT
 ![image](https://github.com/user-attachments/assets/f6a09395-b816-49d0-9e36-d88937ec1719)
 
 # BACKGROUND
