@@ -1,5 +1,10 @@
 # Fun UK Lotto Number Generator.py
-Random UK Lotto Number Generator Based on Most Commonly Occuring Numbers Since Lotto Inception
+Random UK Lotto Number Generator Based on Most Commonly Occuring Numbers Since Lotto Inception.
+
+# Live Link
+Below is the link to where it can be viewed and played:
+
+<a href="https://grizzmac.itch.io/zoltar-luck-lottery-number-picker>Zoltar Lotto Number Generator</a>
 
 # Table of Contents
 1.	PROJECT DESCRIPTION
