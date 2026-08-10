@@ -4,7 +4,7 @@ Random UK Lotto Number Generator Based on Most Commonly Occuring Numbers Since L
 # Live Link
 Below is the link to where it can be viewed and played:
 
-<a href="https://grizzmac.itch.io/zoltar-luck-lottery-number-picker>Zoltar Lotto Number Generator</a>
+<a href="https://grizzmac.itch.io/zoltar-luck-lottery-number-picker">Zoltar Lucky Lottery Number Picker</a>
 
 # Table of Contents
 1.	PROJECT DESCRIPTION
@@ -53,4 +53,7 @@ Python 3.11
 2.	From within your chosen Python code compiler (ie. VisualStudio or PyCharm), open and run the Zoltar1.py file contained in the zoltarlotto folder.
 3.	The program will automatically load and generate the first set of numbers.
 4.	Once you have a first set of numbers you will be prompted to run the numbers again by pressing ‘Y’ to generate more numbers, or to quit the program by pressing ‘N’.
+
+Live app can be found here: <a href="https://grizzmac.itch.io/zoltar-luck-lottery-number-picker">Zoltar Lucky Lottery Number Picker</a>
+
 
